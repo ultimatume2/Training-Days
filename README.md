@@ -5,7 +5,7 @@ CodeCademy_Training Days_javascript
 
 ## -[ ] TASK 1:
 
-> Let’s begin by running the trainingDays.js file. In the console we can see that the program is broken!
+> Let’s begin by running the trainingDays.js file. In the console we can see that the program is broken! 
 
 > Ideally, the `getRandEvent()` function selects an event at random. The `getTrainingDays()` function returns the number of days to train based on the event selected. The `logEvent()` and `logTime()` functions print the athlete name, event, and number of days to the console.
 
